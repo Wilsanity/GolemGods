@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Golem_Gods.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\Golem_Gods.cpp.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\Skill.cpp.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\BaseCharacter.cpp.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\BattleManager.cpp.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\DataManager.cpp.obj"
+"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\Default.rc2.res"
+/OUT:"D:\Windows\Documents\GitHub\GolemGods\Golem_Gods\Intermediate\Build\Win64\x64\UnrealEditor\Development\Golem_Gods\UnrealEditor-Golem_Gods.lib"

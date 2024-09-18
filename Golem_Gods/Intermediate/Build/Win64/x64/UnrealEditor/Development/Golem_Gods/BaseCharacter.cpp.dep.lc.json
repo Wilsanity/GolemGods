@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\windows\\documents\\github\\golemgods\\golem_gods\\source\\golem_gods\\private\\basecharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\windows\\documents\\github\\golemgods\\golem_gods\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\windows\\documents\\github\\golemgods\\golem_gods\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\golem_gods\\definitions.golem_gods.h",
+            "d:\\windows\\documents\\github\\golemgods\\golem_gods\\source\\golem_gods\\public\\basecharacter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Golem_Gods/Saved/Telemetry/Telemetry.json
+/Golem_Gods/Saved/Config/CrashReportClient
+/Golem_Gods/Saved/Crashes

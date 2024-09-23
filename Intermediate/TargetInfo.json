@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Golem_Gods",
+			"Path": "..\\Source\\Golem_Gods.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Golem_GodsEditor",
+			"Path": "..\\Source\\Golem_GodsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

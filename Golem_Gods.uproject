@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "{32DE7C77-4D71-FE76-F2FE-2BB0D77FE5FF}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Golem_Gods",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
